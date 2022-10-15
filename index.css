@@ -51,12 +51,14 @@ nav ul li a:hover {
 }
 
 footer{
-    background-color: ; 
-    display: flex;
-    justify-content: center;[
+    background-color: wheat;
+        display: flex;
+        justify-content: center;
         position: fixed;
         height: 30px;
-    ]
+        bottom: 0px;
+        width: 100%;
+    
 
 }
 
