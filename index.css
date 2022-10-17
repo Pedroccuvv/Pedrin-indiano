@@ -12,12 +12,12 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: brown;
+    background-color: rgb(216, 84, 117);
     
  }
 h1#nome{ 
     font-family: Dancing script, cursive;
-    color: orange;
+    color: gold;
 }
 
 nav {
@@ -35,7 +35,7 @@ li a{
     font-size: 30px;
     text-decoration: none;
     width: 100px;
-    color: rgb(65, 6, 88)
+    color: rgb(88, 59, 6)
 }
 img#hero {
     height: 300px;
@@ -43,7 +43,7 @@ img#hero {
     margin: 40px;
 }
 nav ul li:hover {
-    background-color: black;
+    background-color: rgb(216, 84, 117);
     
 }
 nav ul li a:hover {
@@ -61,5 +61,11 @@ footer{
     
 
 }
+
+main p  {
+
+    font-family: 'Quicksand', sans-serif;
+}
+
 
 
